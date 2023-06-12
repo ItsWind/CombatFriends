@@ -1,0 +1,14 @@
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\bin\x64\Debug\net472\CombatFriends.dll
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\bin\x64\Debug\net472\CombatFriends.pdb
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.csproj.AssemblyReference.cache
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.AssemblyInfoInputs.cache
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.AssemblyInfo.cs
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.csproj.CoreCompileInputs.cache
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.dll
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.pdb
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\bin\x64\Debug\net472\0Harmony.dll
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\bin\x64\Debug\net472\MCMv5.dll
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\bin\x64\Debug\net472\Mono.Cecil.dll
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\bin\x64\Debug\net472\MCMv5.pdb
+C:\Users\stric\source\repos\CombatFriends\CombatFriends\obj\x64\Debug\net472\CombatFriends.csproj.CopyComplete
